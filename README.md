@@ -1,1 +1,2 @@
 # Grocery-Store
+In these days because of the spread of coronavirus pandemic and lockdown in the country has made people more difficult to go out and to buy groceries from the offline shop located nearby areas. So, by taking these things into consideration I have designed a website for buying groceries online that will make the life of people easier, they can buy good and fresh groceries with a single click. The main features of my online grocery store include fast delivery within 30 minutes, 24/7 availability and easy payment using card or cash. 
